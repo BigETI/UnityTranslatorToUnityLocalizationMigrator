@@ -1,0 +1,27 @@
+{
+    "name": "UnityTranslatorToUnityLocalizationMigratorEditorAssemblyDefinition",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:2e77701fe0ceda44fb763f03ee704c37",
+        "GUID:f714f5a1a66a44628c69d24d31158ed5",
+        "GUID:f4dea7fcb51cdfb4aa526b9274bd58f3",
+        "GUID:93e247aed1f08d741aa7ec48770997e7",
+        "GUID:7ea637f12ee486146bd3500de600792c",
+        "GUID:c07277a83abd32d4ca23acd43cef53b0",
+        "GUID:42a5546e7b33d2b40ab80a918e9cf407",
+        "GUID:fcb100b7b66187e469de3637a27ae794",
+        "GUID:535b3e812df873b4ba9a83601bbd829c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
